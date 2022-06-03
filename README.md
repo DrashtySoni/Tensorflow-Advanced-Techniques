@@ -1,0 +1,2 @@
+# Tensorflow-Advanced-Techniques
+Understood the underlying basis of the Functional API and build exotic non-sequential model types, custom loss functions, and layers.  Skills covered:  Model Interpretability | Custom Training Loops | Custom and Exotic Models | Generative Machine Learning | Object Detection | Functional API | Custom Layers | Custom Loss Functions | Distribution Strategies | Basic Tensor Functionality | GradientTape for Optimization
